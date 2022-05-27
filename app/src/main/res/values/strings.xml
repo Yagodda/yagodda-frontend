@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Yagodda</string>
+    <string name="signUp"><u>Зарегестрироваться</u></string>
+    <string name="signIn"><u>Авторизация</u></string>
+    <string name="sign_in">Авторизация</string>
+    <string name="forgot"><u>Забыли пароль?</u></string>
+    <string name="have_account"><u>У меня уже есть аккаунт</u></string>
+    <string name="password">Пароль</string>
+    <string name="email">Email</string>
+    <string name="enter_your_name">Имя</string>
+    <string name="enter_your_email">E-mail</string>
+    <string name="don_t_receive_the_code">Не получили код?</string>
+    <string name="sign_up">Зарегестрироваться</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="skip">П</string>
+    <string name="hi_there">Hi There!</string>
+    <string name="fill_out_the_forms_to_continue">Заполните все поля,\nчтобы продолжить!</string>
+    <string name="enter_your_phone">Введите свой номер телефона</string>
+    <string name="confirm_your_password">Подтвердите свой пароль</string>
+    <string name="verify">Подтвердить</string>
+    <string name="verify_number">Подтвердить номер</string>
+    <string name="enter_code_sent_to">Enter code sent to</string>
+    <string name="phone">Номер телефона</string>
+    <string name="resend">Отправить код занова</string>
+    <string name="back">Назад</string>
+    <string name="add_image">Фото</string>
+    <string name="amp"><![CDATA[&]]></string>
+    <string name="or">или</string>
+    <string name="change_number">Изменить номер</string>
+    <string name="please_confirm_your_county_code_nand_enter_your_phone_number">Пожалуйста укажите код своей страны\n и введите ваш номер телефона</string>
+    <string name="phoneline_hint">--- --- ----</string>
+    <string name="your_phone">Ваш номер</string>
+    <string name="country_code">+7</string>
+    <string name="create_account">Создать Аккаунт</string>
+    <string name="chats">Чаты</string>
+    <string name="create_a_new_account">Создать новый аккаунт</string>
+
+</resources>

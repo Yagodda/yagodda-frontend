@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "292712812083",
+    "project_id": "yagodda-d1513",
+    "storage_bucket": "yagodda-d1513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292712812083:android:cf8341d62ea5f729651d46",
+        "android_client_info": {
+          "package_name": "com.example.yagodda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292712812083-0761t03giaobobg6r28a8vtl1gbn1iaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yagodda",
+            "certificate_hash": "7757355450d25ac7688496551193852c33db6309"
+          }
+        },
+        {
+          "client_id": "292712812083-9mb8jr96tuc9ase99qqf8564l8buu3pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvfO5BVJ5_GoUJOaR83SApMfjVWQpreoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292712812083-9mb8jr96tuc9ase99qqf8564l8buu3pe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
